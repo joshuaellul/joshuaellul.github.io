@@ -1,5 +1,7 @@
 # joshuaellul.github.io
 
+I will in time migrate my old page here. From my old page with more information see: <a href="http://staff.um.edu.mt/joshua.ellul/" target="_">http://staff.um.edu.mt/joshua.ellul/</a><br/>
+
 For our work on External Calls for Blockchain and DLT see: <a href="./excalls/" target="_">joshuaellul.github.io/excalls/</a><br/>
 <br/>
 To connect with me:<br/>
