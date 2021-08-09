@@ -10,12 +10,14 @@ I will in time migrate my old page here. For my old page with more information s
 # Research Interests
 <details>
   <summary>Main domains within which I undertake research</summary>
-   * Blockchain, DLT, Smart Contracts, and Cryptocurrencies
-   * Internet of Things
+  
+  * Blockchain, DLT, Smart Contracts, and Cryptocurrencies
+  * Internet of Things
 </details>
 
 <details>
   <summary>Current specific computer science/technical research avenues in the above domains I am interested in include:</summary>
+  
   * Unconventional virtual machine design
   * Unconventional architectural design
   * Easier programming abstractions and tools (programming paradigms, languages, verification)
@@ -24,6 +26,7 @@ I will in time migrate my old page here. For my old page with more information s
 
 <details>
   <summary>Current multidisciplinary research avenues in the above domains I am interested in include:</summary>
+  
   * Regulatory technology and the regulation of technology - especially emerging technology
   * Smart contracts vs Legal contracts and working towards Legal Smart Contracts
 </details>
