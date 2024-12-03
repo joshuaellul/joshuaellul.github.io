@@ -11,9 +11,7 @@ Research Gate: <a href="https://www.researchgate.net/profile/Joshua-Ellul" targe
 
 
 # Bio
-* Director of the <a href="https://www.um.edu.mt/dlt" target="_">Centre for DLT</a> at the University of Malta, where we run a Multidisciplinary Masters in Blockchain and DLT, taking in students from a Computer Science/IT, Business/Finance/Economics/Management, Law and Regulation background. Students are given an introduction to the field and disciplines that they are not acquainted with, and then dig deeper into their area of specialisation.
-* Chairperson of the <a href="https://mdia.gov.mt/" target="_">Malta Digital Innovation Authority</a> which is responsible for regulating various innovative technology sectors including Blockchain, AI and any safety-critical applications.
-* Senior Lecturer in the <a href="https://www.um.edu.mt/ict/cs" target="_">Department of Computer Science</a>.
+* Associate Professor in the <a href="https://www.um.edu.mt/ict/cs" target="_">Department of Computer Science</a> and the <a href="https://www.um.edu.mt/dlt" target="_">Centre for DLT</a>.
 
 # Research Interests
 <details>
@@ -39,6 +37,3 @@ Research Gate: <a href="https://www.researchgate.net/profile/Joshua-Ellul" targe
   * Smart contracts vs Legal contracts and working towards Legal Smart Contracts
 </details>
 
-
-
-If you're interested in the Masters in Blockchain and DLT that we run in the Centre for DLT at the University of Malta, see: <a href="https://www.um.edu.mt/dlt" target="_">um.edu.mt/dlt<a/>
